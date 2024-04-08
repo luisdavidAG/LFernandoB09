@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hola a todos.
+
+Soy Luis Fernando Bautista Alcozer Ingeniero en Tecnologias de la Información y Comunicaciones.
+
+Actualmente curso el octavo sementre de la carrera.
+
+Me gusta mucho la programación en Java y C# y ademas de conocer un poco acerca de programación web con HTML, CSS y un poco de JavaScript.
 
 <!--
 **LFernandoB09/LFernandoB09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
