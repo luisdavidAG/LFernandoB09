@@ -1,4 +1,4 @@
-###Hola a todos 👋
+Hola a todos 👋
 ¡Bienvenidos a mi perfil de GitHub!
 
 Soy Luis Fernando Bautista Alcozer, un estudiante de Ingeniería en Tecnologías de la Información y Comunicaciones en el octavo semestre de mi carrera.
