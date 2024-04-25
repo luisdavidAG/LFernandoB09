@@ -18,6 +18,9 @@ Contribuir a la comunidad de código abierto y compartir conocimientos con otros
 
 ¡No dudes en explorar mis repositorios y conectarte conmigo! Estoy emocionado de conocer y colaborar con otros apasionados por la tecnología como tú.
 
+
+ni modo taliban te han hackeado!!
+
 <!--
 **LFernandoB09/LFernandoB09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
